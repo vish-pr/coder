@@ -11,7 +11,9 @@ Dollars can be spend to save time. Time can be spend to save dollars. Do first t
 
 
 # Atribution
-<a href="https://github.com/unclecode/crawl4ai"><img src="./docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/></a> 
+<a href="https://github.com/unclecode/crawl4ai">
+  <img src="https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/>
+</a>
 
 
 
