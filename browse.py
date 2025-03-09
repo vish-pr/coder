@@ -1,6 +1,5 @@
 import asyncio
 from crawl4ai.content_filter_strategy import PruningContentFilter
-from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai import AsyncWebCrawler
 import os
 import subprocess
